@@ -6,3 +6,4 @@ class App
     return 'Hello world!';
   }
 }
+Ho fatto una modifica
