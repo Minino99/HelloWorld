@@ -1,0 +1,7 @@
+{
+    "name": "cd-in-a-box/apps-hello-world-web",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
